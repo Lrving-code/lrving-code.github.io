@@ -68,3 +68,35 @@ Only positively matched public research is shown. No stock, generated or unpubli
 - The owner provided authenticated full-text access on 2026-09-27. The high-resolution image link was opened from Figure 1 in the publisher article: https://ars.els-cdn.com/content/image/1-s2.0-S0301479723011611-gr1_lrg.jpg . Exact original JPEG, no cropping or recoloring; SHA-256 recorded in the local delivery log. PDF page number not asserted.
 - © 2023 Elsevier Ltd. All rights reserved. Not CC licensed. Reused by the first author on their personal academic homepage; see https://www.elsevier.com/about/policies-and-standards/copyright . Only the figure is hosted, not the subscription article, institutional session, or authentication details.
 - Private research assets still require the owner's item-by-item confirmation before addition.
+
+## Shanghai co-abatement
+
+- Xiahong Shi, Zining Huang, Qizhen Liu, Yi Fang, Wenjie Wan, Jinping Cheng, *Co-abatement of greenhouse gas and air pollutants in Shanghai, China: Spatial hotspots identification, effects assessment and policy implication*, Science of the Total Environment 951 (2024), 175569.
+- https://doi.org/10.1016/j.scitotenv.2024.175569 ; publisher: https://www.sciencedirect.com/science/article/abs/pii/S0048969724057255 .
+- `public/research/shanghai-co-abatement.jpg`: complete Graphical abstract, 1460×886, downloaded unchanged from the publisher's observed high-resolution link: https://ars.els-cdn.com/content/image/1-s2.0-S0048969724057255-ga1_lrg.jpg .
+- Selected because it connects emission inventories, gridded spatial allocation, mitigation hotspots and scenario assessment in one complete overview. SHA-256 `0c96c1679b12650449090f9abb6921de5d91d75d5a15dab24453b49f42dea43f`.
+- © 2024 Elsevier B.V. All rights reserved; no CC license asserted. Reused by a coauthor for their personal academic homepage; see https://www.elsevier.com/about/policies-and-standards/copyright . Public availability does not imply an open license.
+
+## Mobile-source emissions
+
+- Xiahong Shi, Zining Huang, Yuntong Dai, Weiyi Du, Jinping Cheng, *Evaluating emission reduction potential and co-benefits of CO2 and air pollutants from mobile sources: A case study in Shanghai, China*, Resources, Conservation and Recycling 202 (2024), 107347.
+- https://doi.org/10.1016/j.resconrec.2023.107347 ; publisher: https://www.sciencedirect.com/science/article/abs/pii/S0921344923004810 .
+- `public/research/mobile-source-emissions.jpg`: complete Graphical abstract, 1191×886, downloaded unchanged from the publisher's observed high-resolution link: https://ars.els-cdn.com/content/image/1-s2.0-S0921344923004810-ga1_lrg.jpg .
+- Selected because it connects road/non-road sources, historical emissions, scenario forecasts and co-benefit analysis. SHA-256 `19173c8be5c2531fff2ac76e1385876de45be5e66ae2af9c71b401f1ff802209`.
+- © 2023 Elsevier B.V. All rights reserved; no CC license asserted. The copyright year precedes the 2024 issue year. Reused by a coauthor for their personal academic homepage; see https://www.elsevier.com/about/policies-and-standards/copyright .
+
+## Road-carbon dynamics
+
+- Gengyuan Liu, Zining Huang, Yuan Gao, Mingwan Wu, Chang Liu, Caocao Chen, Ginevra Virginia Lombardi, *A Study on Near Real-Time Carbon Emission of Roads in Urban Agglomeration of China to Improve Sustainable Development under the Impact of COVID-19 Pandemic*, Sustainability 14(1) (2022), 385.
+- https://doi.org/10.3390/su14010385 ; publisher: https://www.mdpi.com/2071-1050/14/1/385 .
+- `public/research/road-carbon-resilience.png`: complete Figure 6, 2806×1294. The temporal and spatial pattern communicates the core road-carbon analysis rather than only the study-area map.
+- Original publisher PNG, unchanged: https://www.mdpi.com/sustainability/sustainability-14-00385/article_deploy/html/images/sustainability-14-00385-g006.png . SHA-256 `784d921b398adbec8a4be66e19923e654ed28b34994c115036d4bd0bcc21a104`.
+- © 2021 The Authors; https://creativecommons.org/licenses/by/4.0/ . Published online 2021-12-30, assigned to the 2022 issue. No scientific content, color or panel changes.
+
+## Petrochemical emissions
+
+- Zhengyu Xie, Haohao Jia, Yiwen Cai, Zining Huang, Tongchen Luo, Jinping Cheng, *Emission accounting, sectoral contributions and gridded spatial distribution of greenhouse gases in a typical petrochemical district of Shanghai*, Atmospheric Pollution Research 14(6) (2023), 101776.
+- https://doi.org/10.1016/j.apr.2023.101776 . Public author manuscript linked by the publisher: https://www.sciencedirect.com/science/article/am/pii/S1309104223001307 . This is an author-manuscript figure, not a downloaded Version-of-Record image.
+- `public/research/petrochemical-emissions.png`: complete Figure 7, PDF page 30 (caption continues on page 31), 4074×1604. “A high-resolution gridded spatial distribution map of GHG emissions in the PID (a) and the GHG emission contributions of the four grid classifications (b).”
+- Restored from all seven embedded horizontal image strips in their original order. Every strip's pixels match the PDF source; no scientific content, panels, colors or labels changed. Original pixel geometry is preserved rather than the PDF's slight stretching of its last strip. Both panels were visually compared with the PDF page. SHA-256 `39af8af392cbb68326a5255ca3ad7e7f7b583e3d32887e617ea5509c267fd7a3`.
+- The manuscript states © 2023 Published by Elsevier and identifies https://www.elsevier.com/open-access/userlicense/1.0/ . The publisher article identifies © 2023 Turkish National Committee for Air Pollution Research and Control, production and hosting by Elsevier B.V.; all rights reserved. No CC license asserted. Figure reused by a coauthor on their personal academic homepage; see https://www.elsevier.com/about/policies-and-standards/copyright . The manuscript itself is not hosted on this site.
