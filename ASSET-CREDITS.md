@@ -6,6 +6,13 @@
 - Original 1086×724 JPEG pixels are preserved. EXIF, IPTC and comment metadata were removed losslessly; decoded RGB pixels were checked against the original and match exactly. CSS frames the photograph at 4:5 without stretching, face reconstruction, or color alteration.
 - An AI-retouched candidate was reviewed but rejected because it subtly reconstructed facial details. That candidate is not part of the public site. No location, institutional role, or campus association is inferred from the photograph.
 
+## ByteDance Seed identity
+
+- `public/identity/bytedance-seed.png`: official full ByteDance Seed wordmark, downloaded unmodified from the header/footer of https://seed.bytedance.com/en/ on 2026-09-27.
+- Original asset: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/deploy/flow/ai_official_website/88329/static/image/footer_brand_logo.a2d9c12f.png . Transparent PNG, 720×96; SHA-256 `ddadc6aef3b3726551255c6fad868ba69c66c8f38b2dd9991fa34c3278e2d229`.
+- Displayed proportionally, without recoloring, to identify the owner's confirmed internship. It does not imply employer endorsement of this personal website or its research.
+- Brand/trademark rights remain with the owner; this is not a CC/public-domain asset or a claim of an open license. Official terms: https://seed.bytedance.com/en/disclaimer .
+
 ## University identity
 
 - `public/identity/tsinghua-seal.jpg`: authentic purple Tsinghua University seal from https://vi.tsinghua.edu.cn/gk/xxbz/xh.htm .
