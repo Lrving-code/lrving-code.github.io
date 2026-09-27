@@ -11,16 +11,27 @@ Only positively matched public research is shown. No stock, generated or unpubli
 
 ## Harness-IF
 
-- `public/research/harness-if-overview.png`: Figure 1, paper page 2, Huang et al., *Harness-IF: Evaluating Instruction Following Across Instruction Surfaces in Coding Agents*.
+- Huang et al., *Harness-IF: Evaluating Instruction Following Across Instruction Surfaces in Coding Agents*.
 - Public release: https://arxiv.org/abs/2608.11727v1
-- Public source: https://arxiv.org/src/2608.11727v1 ; original `figs/fig0_concept.pdf`.
+- Public source: https://arxiv.org/src/2608.11727v1 .
 - License: https://creativecommons.org/licenses/by/4.0/
-- Faithful rasterization, 1680×844. No scientific content changed.
+- Selected main image: `public/research/harness-if-construction.png`, Figure 2, paper page 4; original source `figs/fig_benchmark_construction.pdf`. Faithful rasterization, 2400×1123. The complete construction and evaluation pipeline is used in both the highlight and publication thumbnail at the owner's request.
+- Retained, not displayed: `public/research/harness-if-overview.png`, Figure 1, paper page 2; original `figs/fig0_concept.pdf`, faithful rasterization 1680×844. No scientific content changed in either figure.
+
+## MBHI
+
+- Selected main image: `public/research/mbhi-method.jpg`, complete Figure 4, 2765×1601, “Mechanism illustration of saliency point cloud generation in MBHI.”
+- Xiaoyi Zu, Yanlong Niu, Zining Huang, Rui Hou, Hongjun Tang, Yi Wang, *MBHI: An explainable deep learning framework for interpreting multi-scale regional characteristics of built heritage from point clouds*, Frontiers of Architectural Research, online publication (2026).
+- https://doi.org/10.1016/j.foar.2026.04.015
+- Publisher HTML: https://www.sciencedirect.com/science/article/pii/S2095263526001238#fig4 ; section 2.3, MBHI model architecture. PDF page number not asserted.
+- Exact publisher image: https://ars.els-cdn.com/content/image/1-s2.0-S2095263526001238-gr4_lrg.jpg
+- © 2026 The Authors. https://creativecommons.org/licenses/by/4.0/ . License verified on the publisher page and the Crossref record. Full, unmodified publisher JPEG; not an image from the unpublished Fujian work.
+- Selected over the sample grid (Fig. 5) and downstream conservation workflow (Fig. 8) because it directly depicts the core multi-scale point-cloud interpretation method.
 
 ## Village spatial patterns
 
-- `public/research/habitat-siteplans.jpg`: complete Figure 8, page 11, 2154×2180.
-- `public/research/habitat-patterns.jpg`: complete Figure 14, page 17, 2154×556.
+- Selected main image: `public/research/habitat-patterns.jpg`, complete Figure 14, page 17, 2154×556. Five spatial typologies communicate the paper's core finding more directly than model-training curves or a dense processing pipeline; used consistently in the highlight and publication list.
+- Retained, not displayed: `public/research/habitat-siteplans.jpg`, complete Figure 8, page 11, 2154×2180.
 - Xiaoyi Zu, Zining Huang, Rui Hou, Yuxin Ao, Lingfeng Xie, Yi Wang, *From classification to decoding…*, Habitat International 174 (2026), 103890.
 - https://doi.org/10.1016/j.habitatint.2026.103890
 - © 2026 Elsevier Ltd. All rights reserved. Not CC licensed. User expressly identified this as their own publication; reused by a coauthor for their academic homepage. See https://www.elsevier.com/about/policies-and-standards/copyright . Third-party satellite imagery retains its original rights.
@@ -28,12 +39,16 @@ Only positively matched public research is shown. No stock, generated or unpubli
 
 ## Village preservation
 
-- `public/research/yolo-detection.png`: complete Figure 7, printed page 363, 2014×1165.
+- Selected main image: `public/research/yolo-framework.png`, complete Figure 5, PDF page 9 / printed page 361, 1900×1310, “The research framework.” The end-to-end framework includes YOLOv10, preservation assessment, random forests, SHAP, and field research, rather than only detector accuracy.
+- Faithful 300-dpi Poppler rendering of the complete figure rectangle, with a small whitespace margin; no panel removal or other content modification. Used consistently in the highlight and publication list.
+- Retained, not displayed: `public/research/yolo-detection.png`, complete Figure 7, printed page 363, 2014×1165.
 - Xiaoyi Zu, Peng Liu, Chen Gao, Rui Hou, Zining Huang, Yuxin Ao, Yi Wang, *Traditional village preservation status evaluation and optimization based on YOLOv10 and random forest model…*, Frontiers of Architectural Research 15 (2026), 353–369.
 - https://doi.org/10.1016/j.foar.2025.05.007
 - Publisher PDF: https://jf2.hep.com.cn/742408a17aee4feab12f82cba3072275.pdf
 - © 2025 The Authors. https://creativecommons.org/licenses/by-nc-nd/4.0/ . Noncommercial academic use; entire figure reproduced without modification. No separate rights are asserted over third-party imagery.
 
-## Not yet illustrated
+## Clean-air policy — awaiting an authentic original
 
-MBHI remains in the verified publication list, but no authenticated public figure was retrieved. Do not attach another project's point cloud to that publication. Private research assets require the owner's item-by-item confirmation before addition.
+- https://doi.org/10.1016/j.jenvman.2023.118373 ; public preview: https://www.sciencedirect.com/science/article/abs/pii/S0301479723011611 .
+- No authentic figure was accessible in the public publisher preview on 2026-09-27. The paper remains represented by a clearly labeled topic panel, not a generated or unrelated figure. Await the author's PDF before selecting the core framework or result image; do not infer figure content from snippets.
+- Private research assets still require the owner's item-by-item confirmation before addition.
