@@ -8,7 +8,10 @@
 
 ## ByteDance Seed identity
 
-- `public/identity/bytedance-seed.png`: official full ByteDance Seed wordmark, downloaded unmodified from the header/footer of https://seed.bytedance.com/en/ on 2026-09-27.
+- Current displayed symbol: `public/identity/bytedance-seed-mark.png`, the original 300×300 blue/turquoise four-bar PNG embedded in the official ByteDance corporate homepage's `<link rel="shortcut icon">` at https://www.bytedance.com/ , observed on 2026-09-28. Decoded directly from that observed data URI; source bytes preserved, no crop, recoloring, redrawing or upscaling. SHA-256 `edfcd80db6ad4a4303bd301161376fa14805208c69c72cf92a2aa50f72be9e5e`.
+- Shown only in Experience, at 40 CSS pixels alongside separate plain-text “ByteDance Seed” and the confirmed Research Intern role. The Seed website https://seed.bytedance.com/en/ references the matching symbol in its own favicon. This is the corporate symbol, not a claim of exclusive Seed ownership, a newly granted trademark license or employer endorsement.
+- A 48×48 Seed-site favicon candidate was inspected and rejected for visible softness at display size; it is not served by the website. The selected 300×300 original has sufficient native detail for high-density displays without reconstructing the symbol.
+- Retained, no longer displayed: `public/identity/bytedance-seed.png`, official full ByteDance Seed wordmark, downloaded unmodified from the header/footer of https://seed.bytedance.com/en/ on 2026-09-27.
 - Original asset: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/deploy/flow/ai_official_website/88329/static/image/footer_brand_logo.a2d9c12f.png . Transparent PNG, 720×96; SHA-256 `ddadc6aef3b3726551255c6fad868ba69c66c8f38b2dd9991fa34c3278e2d229`.
 - Displayed proportionally, without recoloring, to identify the owner's confirmed internship. It does not imply employer endorsement of this personal website or its research.
 - Brand/trademark rights remain with the owner; this is not a CC/public-domain asset or a claim of an open license. Official terms: https://seed.bytedance.com/en/disclaimer .
