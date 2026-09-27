@@ -111,3 +111,10 @@ Only positively matched public research is shown. No stock, generated or unpubli
 - `public/research/vehicle-policy-framework.jpg`: complete Figure 1, “The research framework of this study”, 3060×1428, original publisher JPEG, no cropping, recoloring or modification. Connects real-time traffic and vehicle-emission modeling with policy scenarios and co-benefit analysis.
 - Retrieved through the publisher's high-resolution link after the owner supplied authenticated institutional full-text access: https://ars.els-cdn.com/content/image/1-s2.0-S0301479723025240-gr1_lrg.jpg . SHA-256 `74295fda42942e9bee4ce933859c7d50edab2e33c4c0982265afad48086b4a1b`.
 - © 2023 Elsevier Ltd. All rights reserved. No CC license asserted. Reused by a coauthor on their personal academic homepage; see https://www.elsevier.com/about/policies-and-standards/copyright . Only this figure is hosted, not the subscription article or any institutional-session information.
+
+## Seed2.0 model card
+
+- ByteDance Seed, *Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity*, arXiv:2607.00248v1 (2026). https://arxiv.org/abs/2607.00248 . Zining Huang is a listed contributor; no individual figure-work attribution is implied.
+- `public/research/seed2-competition.png`: complete Figure 7, report page 26, “The competitive programming results across five ICPC”, 2800×767. Original three-model comparison, all five contest groups, numerical labels, medal markers, Pass@8 overall scores and full legend retained.
+- Rendered from the arXiv TeX source's `figure/competition.pdf`, using the author's existing CropBox, not a manually redesigned figure. Source https://arxiv.org/src/2607.00248 . Raster format conversion only; no scientific content, colors, labels or panels changed. SHA-256 `7aa043538993ce356250108f1066f140a8cf0e2d1c051a036cda1135ebde6df4`.
+- CC BY 4.0, verified through the arXiv record's license link: https://creativecommons.org/licenses/by/4.0/ . The figure is labeled a competitive-programming evaluation example, not an all-capability summary or model architecture. Original technical-report status and collective authorship are preserved.
