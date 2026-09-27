@@ -1,5 +1,11 @@
 # Research-figure provenance
 
+## Personal portrait
+
+- `public/identity/zining-huang-portrait.jpg`: the third photograph supplied and approved by the owner on 2026-09-27. Exactly one personal photo is displayed; research figures are separate.
+- Original 1086×724 JPEG pixels are preserved. EXIF, IPTC and comment metadata were removed losslessly; decoded RGB pixels were checked against the original and match exactly. CSS frames the photograph at 4:5 without stretching, face reconstruction, or color alteration.
+- An AI-retouched candidate was reviewed but rejected because it subtly reconstructed facial details. That candidate is not part of the public site. No location, institutional role, or campus association is inferred from the photograph.
+
 ## University identity
 
 - `public/identity/tsinghua-seal.jpg`: authentic purple Tsinghua University seal from https://vi.tsinghua.edu.cn/gk/xxbz/xh.htm .
@@ -47,8 +53,11 @@ Only positively matched public research is shown. No stock, generated or unpubli
 - Publisher PDF: https://jf2.hep.com.cn/742408a17aee4feab12f82cba3072275.pdf
 - © 2025 The Authors. https://creativecommons.org/licenses/by-nc-nd/4.0/ . Noncommercial academic use; entire figure reproduced without modification. No separate rights are asserted over third-party imagery.
 
-## Clean-air policy — awaiting an authentic original
+## Clean-air policy
 
-- https://doi.org/10.1016/j.jenvman.2023.118373 ; public preview: https://www.sciencedirect.com/science/article/abs/pii/S0301479723011611 .
-- No authentic figure was accessible in the public publisher preview on 2026-09-27. The paper remains represented by a clearly labeled topic panel, not a generated or unrelated figure. Await the author's PDF before selecting the core framework or result image; do not infer figure content from snippets.
+- Zining Huang, Haohao Jia, Xiahong Shi, Zhengyu Xie, Jinping Cheng, *Revealing the impact of China's clean air policies on synergetic control of CO2 and air pollutant emissions: Evidence from Chinese cities*, Journal of Environmental Management 344 (2023), 118373.
+- https://doi.org/10.1016/j.jenvman.2023.118373 ; publisher article: https://www.sciencedirect.com/science/article/pii/S0301479723011611 .
+- Selected main image: `public/research/clean-air-framework.jpg`, complete Figure 1, “Research framework”, 3058×1707. Section 2.1 connects coupling coordination measurement, temporal/spatial analysis, DID policy evaluation, robustness tests, mechanisms and spillovers. Selected over the narrower result plots to represent the whole study.
+- The owner provided authenticated full-text access on 2026-09-27. The high-resolution image link was opened from Figure 1 in the publisher article: https://ars.els-cdn.com/content/image/1-s2.0-S0301479723011611-gr1_lrg.jpg . Exact original JPEG, no cropping or recoloring; SHA-256 recorded in the local delivery log. PDF page number not asserted.
+- © 2023 Elsevier Ltd. All rights reserved. Not CC licensed. Reused by the first author on their personal academic homepage; see https://www.elsevier.com/about/policies-and-standards/copyright . Only the figure is hosted, not the subscription article, institutional session, or authentication details.
 - Private research assets still require the owner's item-by-item confirmation before addition.
