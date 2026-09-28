@@ -18,6 +18,10 @@
 
 ## University identity
 
+- `public/identity/sjtu-seal.png`: original red seal served on Shanghai Jiao Tong University's official visual identity page, https://vi.sjtu.edu.cn/index.php/articles/base/1 . The owner requested the shorter display name “Jiao Tong University”; the institution link remains https://en.sjtu.edu.cn/ .
+- Observed public asset: https://vi.sjtu.edu.cn/img/base/Logo.png . Original transparent PNG, 240×240, downloaded on 2026-09-28; SHA-256 `03850ccad113dd2e2f4b643834dc6958183a0c63179fa0301f56e687550465f0`. Source bytes are unchanged; CSS uses proportional contain sizing and clear-space padding. No redrawing, recoloring, cropping or AI generation.
+- Used only to identify the owner's confirmed undergraduate education. Trademark and image rights remain with the university; no open license or institutional endorsement is claimed. The public image is separate from the VI site's sign-in-protected downloadable archive, which was not accessed.
+
 - `public/identity/tsinghua-seal.jpg`: authentic purple Tsinghua University seal from https://vi.tsinghua.edu.cn/gk/xxbz/xh.htm .
 - Observed official asset: https://vi.tsinghua.edu.cn/__local/8/1C/21/2F02A66E31BF084FE340463BB47_B9A95F73_185BC.jpg .
 - Original 1400×600 JPEG retained unchanged. CSS frames the central 600×600 region, removing only excess blank side margins; the complete ~430px diameter seal retains at least the required 2/15-diameter clear space on every side. No distortion or recoloring.
