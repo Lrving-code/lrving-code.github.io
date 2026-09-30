@@ -26,6 +26,12 @@ jobs:
           test -s _site/research/harness-if-overview.png
           grep -q 'https://lrving-code.github.io' _site/index.html
           if grep -qi 'noindex' _site/index.html; then exit 1; fi
+          for version in jiaotong tsinghua; do
+            test -s "_site/$version/index.html"
+            test -s "_site/$version.rsc"
+            grep -q "https://lrving-code.github.io/$version/" "_site/$version/index.html"
+            if grep -qi 'noindex' "_site/$version/index.html"; then exit 1; fi
+          done
       - uses: actions/upload-pages-artifact@v5
         with:
           path: _site
