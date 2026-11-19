@@ -29,6 +29,12 @@
 
 Only positively matched public research is shown. No stock, generated or unpublished images are presented as results. Complete figures retain their aspect ratios and are linked to full-resolution files. Source labels refer to published studies, not to the current Fujian doctoral dataset.
 
+## ALIVE
+
+- Jinzhao Li, Yuan Xu et al., *ALIVE: Making Streaming Video Models Interactive*, arXiv:2611.21366v1, 16 November 2026. Zining Huang is a co-author.
+- `public/research/alive-overview.png` is the complete Figure 1 on page 2 of the [paper](https://arxiv.org/pdf/2611.21366v1), rasterized at the bounds of the original embedded figure, with both panels and the legend intact. The [authors’ project page](https://lijinzhao30.github.io/ALIVE/) also links to the original overview.
+- PNG dimensions: 2201×680. SHA-256: `52f38cf53fdbab76b07a4bf912197272a7b7258cfd32365f8dce7a64f8ebe968`. Author reuse on a co-author’s publication list. The [arXiv record](https://arxiv.org/abs/2611.21366v1) carries the arXiv non-exclusive distribution license; no Creative Commons license is asserted.
+
 ## Harness-IF
 
 - Huang et al., *Harness-IF: Evaluating Instruction Following Across Instruction Surfaces in Coding Agents*.
