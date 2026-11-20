@@ -2,7 +2,7 @@
 
 Default homepage: https://lrving-code.github.io/.
 
-Additional homepage addresses: [legacy address](https://lrving-code.github.io/jiaotong/) and [Tsinghua](https://lrving-code.github.io/tsinghua/). The legacy address follows the default. Changing it requires repository publishing access; there is no public switching control.
+Additional homepage addresses: [Jiao Tong](https://lrving-code.github.io/jiaotong/) and [Tsinghua](https://lrving-code.github.io/tsinghua/). Both named addresses retain their own undergraduate profile independently of the default. Changing the default requires repository publishing access; there is no public switching control.
 
 This repository contains the generated static homepage and its GitHub Pages deployment workflow. The editable website source is maintained separately; update this repository by rebuilding that source, not by editing bundled JavaScript. No backend, internal research repository, unpublished manuscripts, or credentials are included.
 
