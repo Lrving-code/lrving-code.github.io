@@ -29,6 +29,12 @@
 
 Only positively matched public research is shown. No stock, generated or unpublished images are presented as results. Complete figures retain their aspect ratios and are linked to full-resolution files. Source labels refer to published studies, not to the current Fujian doctoral dataset.
 
+## BenchMint
+
+- Zining Huang et al., *BenchMint: From Real-World Tasks to Executable Benchmarks*, [arXiv:2611.29367v1](https://arxiv.org/abs/2611.29367v1), 22 November 2026, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- `public/research/benchmint-overview.png` reproduces [Figure 1, page 3](https://arxiv.org/pdf/2611.29367v1#page=3) for the publication thumbnail and enlarged view. It shows how the workflow collects evidence, prepares a task and its grading criteria, and checks the package by running it.
+- Rendered in full from `figs/construction-workflow-v5.pdf` in the [authors’ source archive](https://arxiv.org/src/2611.29367v1); no panels were cropped or redrawn. PNG: 2000×1434; SHA-256: `2b613bbabc0a4b1acce906a33891ca7ef36cd6a82bb8c03dd9b17a3e14066f3b`.
+
 ## ALIVE
 
 - Jinzhao Li, Yuan Xu et al., *ALIVE: Making Streaming Video Models Interactive*, arXiv:2611.21366v1, 16 November 2026. Zining Huang is a co-author.
